@@ -1,5 +1,5 @@
 ﻿  SnakeBin.cpp
-D:\Do not touch files\Game Dev\Hobby-Projects-Cpp\Console Snake Game\SnakeGame\SnakeGame\SnakeBin.cpp(91,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\Do not touch files\Game Dev\Hobby-Projects-Cpp\Console Snake Game\SnakeGame\SnakeGame\SnakeBin.cpp(118,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\Do not touch files\Game Dev\Hobby-Projects-Cpp\Console Snake Game\SnakeGame\SnakeGame\SnakeBin.cpp(224,20): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+D:\Do not touch files\Game Dev\Hobby-Projects-Cpp\Console Snake Game\SnakeGame\SnakeGame\SnakeBin.cpp(48,1): warning C4102: 'repeat': unreferenced label
+D:\Do not touch files\Game Dev\Hobby-Projects-Cpp\Console Snake Game\SnakeGame\SnakeGame\SnakeBin.cpp(106,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Do not touch files\Game Dev\Hobby-Projects-Cpp\Console Snake Game\SnakeGame\SnakeGame\SnakeBin.cpp(228,19): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
   SnakeGame.vcxproj -> D:\Do not touch files\Game Dev\Hobby-Projects-Cpp\Console Snake Game\SnakeGame\Debug\SnakeGame.exe
