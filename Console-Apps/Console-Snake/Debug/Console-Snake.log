@@ -1,0 +1,5 @@
+﻿  SnakeBin.cpp
+D:\Do not touch files\Game Dev\_Projects\Cpp-Repos\Console-Apps\Console-Snake\src\GameManager.h(52,1): warning C4102: 'repeat': unreferenced label
+D:\Do not touch files\Game Dev\_Projects\Cpp-Repos\Console-Apps\Console-Snake\src\GameManager.h(118,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Do not touch files\Game Dev\_Projects\Cpp-Repos\Console-Apps\Console-Snake\src\GameManager.h(240,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  Console-Snake.vcxproj -> D:\Do not touch files\Game Dev\_Projects\Cpp-Repos\Console-Apps\Debug\Console-Snake.exe
